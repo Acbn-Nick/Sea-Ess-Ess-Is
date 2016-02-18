@@ -14,6 +14,6 @@ a: it's either irssi in cygwin (dark background) or hexchat
 
 #### x-ample desktops
 
-!(https://u.teknik.io/fJPA3.png)
+![Alchemy 2.0](https://u.teknik.io/fJPA3.png)
 
-!(https://u.teknik.io/KCbHb.png)
+![Exon](https://u.teknik.io/KCbHb.png)
