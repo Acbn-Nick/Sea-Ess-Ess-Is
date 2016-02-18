@@ -1,0 +1,28 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+@-moz-document url-prefix("about:reader") {
+a,
+a:visited,
+a:hover,
+a:active {
+  color: #3E5169 !important;
+  text-decoration: none !important;
+}
+  #container{
+    width: 75% !important;
+  }
+  body{
+    text-align: justify !important;
+    font-size: 16pt !important;
+    font-family: 'Gotham Rounded', sans-serif !important;
+    color: #666 !important;
+  }
+  .toolbar{
+    visibility: none !important;
+    height: 0 !important;
+  }
+  .toolbar .button{
+    height: 0 !important;
+    width: 0 !important;
+    border-width: 0 !important;
+  }
+}
