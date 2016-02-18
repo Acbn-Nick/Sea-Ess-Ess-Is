@@ -7,7 +7,7 @@
 a: i use a firefox addon to hide my toolbar
 
 ######q: how do you make windows look like that
-a: i used UXThemePatcher and then some deviant art themes. One's called exon and the other's called alchemy 2.0.  the alchemy 2.0 one was changed by me in ave's style builder
+a: i used UXThemePatcher and then some deviant art themes. One's called exon and the other's called alchemy 2.0.  the alchemy 2.0 one i slightly modified in ave's style builder
 
 ######q: what irc client are you using
 a: it's either irssi in cygwin (dark background) or hexchat
