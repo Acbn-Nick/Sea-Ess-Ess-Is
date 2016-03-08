@@ -18,4 +18,4 @@ a: it's either irssi in cygwin (dark background) or hexchat
 
 ![Exon](https://u.teknik.io/KCbHb.png)
 
-![Pablo](https://u.teknik.io/rFbyM.png)
+![Pablo](https://u.teknik.io/sYxzh.png)
