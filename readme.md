@@ -19,3 +19,5 @@ a: it's either irssi in cygwin (dark background) or hexchat
 ![Exon](https://u.teknik.io/KCbHb.png)
 
 ![Pablo](https://u.teknik.io/sYxzh.png)
+
+![Old](https://u.teknik.io/tE4Z4.png)
